@@ -1,0 +1,55 @@
+[DEBUG] 2024-01-30 07:32:00.541 [main] UserTests2 - debugging............
+[INFO ] 2024-01-30 07:32:00.575 [main] UserTests2 - *********Creating User************************
+[INFO ] 2024-01-30 07:32:02.034 [main] UserTests2 - *********Read User Info************************
+[INFO ] 2024-01-30 07:32:02.057 [main] UserTests2 - *********Updating User Details************************
+[DEBUG] 2024-01-30 07:33:04.700 [main] UserTests2 - debugging............
+[INFO ] 2024-01-30 07:33:04.720 [main] UserTests2 - *********Creating User************************
+[INFO ] 2024-01-30 07:33:06.073 [main] UserTests2 - *********Read User Info************************
+[INFO ] 2024-01-30 07:33:06.094 [main] UserTests2 - *********Updating User Details************************
+[DEBUG] 2024-01-30 07:34:59.027 [main] UserTests2 - debugging............
+[INFO ] 2024-01-30 07:34:59.049 [main] UserTests2 - *********Creating User************************
+[INFO ] 2024-01-30 07:35:02.832 [main] UserTests2 - *********User Created************************
+[INFO ] 2024-01-30 07:35:02.862 [main] UserTests2 - *********Read User Info************************
+[INFO ] 2024-01-30 07:35:04.075 [main] UserTests2 - *********User Info is Read************************
+[INFO ] 2024-01-30 07:35:04.091 [main] UserTests2 - *********Updating User Details************************
+[INFO ] 2024-01-30 07:35:06.399 [main] UserTests2 - *********User Details Updated***********************
+[INFO ] 2024-01-30 07:35:07.552 [main] UserTests2 - *********User Deleted************************
+[INFO ] 2024-01-30 08:02:03.386 [main] UserTests - *********Creating User************************
+[INFO ] 2024-01-30 08:02:04.691 [main] UserTests - *********Read User Info************************
+[INFO ] 2024-01-30 08:02:04.694 [main] UserTests - *********Updating User Details************************
+[INFO ] 2024-01-30 08:02:30.394 [main] UserTests - *********Creating User************************
+[INFO ] 2024-01-30 08:02:31.793 [main] UserTests - *********Updating User Details************************
+[INFO ] 2024-01-30 08:02:31.796 [main] UserTests - *********Read User Info************************
+[INFO ] 2024-01-30 08:03:56.020 [main] UserTests - *********Creating User************************
+[INFO ] 2024-01-30 08:03:57.301 [main] UserTests - *********Read User Info************************
+[INFO ] 2024-01-30 08:03:57.304 [main] UserTests - *********Updating User Details************************
+[INFO ] 2024-01-30 08:07:51.182 [main] UserTests - *********Creating User************************
+[INFO ] 2024-01-30 08:07:52.398 [main] UserTests - *********Read User Info************************
+[INFO ] 2024-01-30 08:07:52.401 [main] UserTests - *********Updating User Details************************
+[DEBUG] 2024-01-30 08:10:07.054 [main] UserTests2 - debugging............
+[INFO ] 2024-01-30 08:10:07.077 [main] UserTests2 - *********Creating User************************
+[INFO ] 2024-01-30 08:10:10.792 [main] UserTests2 - *********User Created************************
+[INFO ] 2024-01-30 08:10:10.852 [main] UserTests2 - *********Read User Info************************
+[INFO ] 2024-01-30 08:10:12.085 [main] UserTests2 - *********User Info is Read************************
+[INFO ] 2024-01-30 08:10:12.110 [main] UserTests2 - *********Updating User Details************************
+[INFO ] 2024-01-30 08:10:14.444 [main] UserTests2 - *********User Details Updated***********************
+[INFO ] 2024-01-30 08:10:15.571 [main] UserTests2 - *********User Deleted************************
+[INFO ] 2024-01-30 08:18:29.216 [main] UserTests - *********Creating User************************
+[INFO ] 2024-01-30 08:18:30.432 [main] UserTests - *********Read User Info************************
+[INFO ] 2024-01-30 08:18:30.434 [main] UserTests - *********Updating User Details************************
+[DEBUG] 2024-01-30 08:38:03.399 [main] UserTests2 - debugging............
+[INFO ] 2024-01-30 08:38:03.410 [main] UserTests2 - *********Creating User************************
+[INFO ] 2024-01-30 08:38:07.072 [main] UserTests2 - *********User Created************************
+[INFO ] 2024-01-30 08:38:07.106 [main] UserTests2 - *********Read User Info************************
+[INFO ] 2024-01-30 08:38:08.291 [main] UserTests2 - *********User Info is Read************************
+[INFO ] 2024-01-30 08:38:08.293 [main] UserTests2 - *********Updating User Details************************
+[INFO ] 2024-01-30 08:38:10.661 [main] UserTests2 - *********User Details Updated***********************
+[INFO ] 2024-01-30 08:38:11.819 [main] UserTests2 - *********User Deleted************************
+[DEBUG] 2024-01-30 09:42:52.089 [main] UserTests2 - debugging............
+[INFO ] 2024-01-30 09:42:52.102 [main] UserTests2 - *********Creating User************************
+[INFO ] 2024-01-30 09:42:55.722 [main] UserTests2 - *********User Created************************
+[INFO ] 2024-01-30 09:42:55.749 [main] UserTests2 - *********Read User Info************************
+[INFO ] 2024-01-30 09:42:56.969 [main] UserTests2 - *********User Info is Read************************
+[INFO ] 2024-01-30 09:42:56.971 [main] UserTests2 - *********Updating User Details************************
+[INFO ] 2024-01-30 09:42:59.355 [main] UserTests2 - *********User Details Updated***********************
+[INFO ] 2024-01-30 09:43:00.491 [main] UserTests2 - *********User Deleted************************

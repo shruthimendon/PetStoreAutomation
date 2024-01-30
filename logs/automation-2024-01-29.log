@@ -1,0 +1,8 @@
+[DEBUG] 2024-01-29 10:37:38.931 [main] UserTests - debugging............
+[INFO ] 2024-01-29 10:37:38.948 [main] UserTests - *********Creating User************************
+[INFO ] 2024-01-29 10:37:42.122 [main] UserTests - *********User Created************************
+[INFO ] 2024-01-29 10:37:42.129 [main] UserTests - *********Read User Info************************
+[INFO ] 2024-01-29 10:37:43.300 [main] UserTests - *********User Info is Read************************
+[INFO ] 2024-01-29 10:37:43.307 [main] UserTests - *********Updating User Details************************
+[INFO ] 2024-01-29 10:37:45.583 [main] UserTests - *********User Details Updated***********************
+[INFO ] 2024-01-29 10:37:46.742 [main] UserTests - *********User Deleted************************
